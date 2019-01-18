@@ -158,7 +158,7 @@
         <div class="col-twelve">
           <div class="timeline-wrap">
             <div class="timeline-block">
-              <div class="timeline-ico"> <i class="fa fa-graduation-cap"></i> </div>
+              <div class="timeline-ico"> <i class="fa fa-briefcase"></i> </div>
               <div class="timeline-header">
                 <h3>Senior IT Manager</h3>
                 <p>Feb 2011 - Nov 2018</p>
@@ -175,7 +175,7 @@
             </div>
             <!-- /timeline-block -->
             <div class="timeline-block">
-              <div class="timeline-ico"> <i class="fa fa-graduation-cap"></i> </div>
+              <div class="timeline-ico"> <i class="fa fa-briefcase"></i> </div>
               <div class="timeline-header">
                 <h3>Principle Consultant</h3>
                 <p>Nov 2005 - Feb 2011</p>
@@ -190,7 +190,7 @@
             </div>
             <!-- /timeline-block -->
             <div class="timeline-block">
-              <div class="timeline-ico"> <i class="fa fa-graduation-cap"></i> </div>
+              <div class="timeline-ico"> <i class="fa fa-briefcase"></i> </div>
               <div class="timeline-header">
                 <h3>Web Services Manager</h3>
                 <p>Aug 2000 - Nov 2005</p>
@@ -206,7 +206,7 @@
             </div>
             <!-- /timeline-block -->
             <div class="timeline-block">
-              <div class="timeline-ico"> <i class="fa fa-graduation-cap"></i> </div>
+              <div class="timeline-ico"> <i class="fa fa-briefcase"></i> </div>
               <div class="timeline-header">
                 <h3>Web Services Manager</h3>
                 <p>July 2000 - Aug 2000</p>
@@ -219,7 +219,7 @@
             </div>
             <!-- /timeline-block -->
             <div class="timeline-block">
-              <div class="timeline-ico"> <i class="fa fa-graduation-cap"></i> </div>
+              <div class="timeline-ico"> <i class="fa fa-briefcase"></i> </div>
               <div class="timeline-header">
                 <h3>Product Development Manager</h3>
                 <p>March 1998 - July 2000</p>
@@ -235,7 +235,7 @@
             </div>
             <!-- /timeline-block -->
             <div class="timeline-block">
-              <div class="timeline-ico"> <i class="fa fa-graduation-cap"></i> </div>
+              <div class="timeline-ico"> <i class="fa fa-briefcase"></i> </div>
               <div class="timeline-header">
                 <h3>Senior Advisory Instructor</h3>
                   <p>January 1994 - March 1998</p>
@@ -265,7 +265,7 @@
         <div class="col-twelve">
           <div class="timeline-wrap">
             <div class="timeline-block">
-              <div class="timeline-ico"> <i class="fa fa-briefcase"></i> </div>
+              <div class="timeline-ico"> <i class="fa fa-graduationcap"></i> </div>
               <div class="timeline-header">
                 <h3>Bachelor Degree</h3>
                 <p>May 1998</p>
@@ -308,20 +308,6 @@
    ================================================== -->
     <footer>
       <div class="row">
-        <div class="col-six tab-full pull-right social">
-          <ul class="footer-social">
-            <li><a href="#"><i class="fa fa-facebook"></i></a><br>
-            </li>
-            <li><a href="#"><i class="fa fa-behance"></i></a><br>
-            </li>
-            <li><a href="#"><i class="fa fa-twitter"></i></a><br>
-            </li>
-            <li><a href="#"><i class="fa fa-dribbble"></i></a><br>
-            </li>
-            <li><a href="#"><i class="fa fa-instagram"></i></a><br>
-            </li>
-          </ul>
-        </div>
         <div class="col-six tab-full">
           <div class="copyright"> <span>© Copyright Kards 2016.</span> <span>Design
               by <a href="http://www.styleshout.com/">styleshout</a></span> </div>
